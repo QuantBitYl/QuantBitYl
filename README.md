@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 ![skils and focus](https://skills.syvixor.com/api/icons?perline=15&i=c,cpp,linux,python,bash,golang,rust)
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sQuantBitYl&theme=react" /> </div>
-
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=A81D33&message=Debian&logo=Debian)](https://www.debian.org/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=0D597F&message=Alpine+Linux&logo=Alpine+Linux)](https://www.alpinelinux.org/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FCC624&message=Linux&logo=Linux)](https://www.linux.org/)
